@@ -3,11 +3,11 @@
 This project applies five supervised machine learning classification algorithms to the breast cancer dataset available in the sklearn library. The objective is to evaluate and compare model performance in classifying tumors as malignant or benign.
 
 # Dataset
-Source: sklearn.datasets.load_breast_cancer()
-Samples: 569
-Features: 30 numeric features (mean radius, texture, perimeter, area, smoothness, etc.)
-Target Classes: Malignant (0) — 212 samples | Benign (1) — 357 samples
-Missing Values: None
+* Source: sklearn.datasets.load_breast_cancer()
+* Samples: 569
+* Features: 30 numeric features (mean radius, texture, perimeter, area, smoothness, etc.)
+* Target Classes: Malignant (0) — 212 samples | Benign (1) — 357 samples
+* Missing Values: None
 
 # Project Structure
 ````````````````````````````
